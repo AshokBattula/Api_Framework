@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"This is the products API","3591","loginTest","MyTestSuite","Mon Apr 21 19:05:38 IST 2025","passed","Mon Apr 21 19:05:42 IST 2025","Ashok.TestCases.LoginTest2","SampleTests","Ashok.TestCases.LoginTest2","loginTest"
+"","1929","loginTest","MyTestSuite","Tue Apr 22 20:11:36 IST 2025","passed","Tue Apr 22 20:11:38 IST 2025","Ashok.TestCases.LoginTest","SampleTests","Ashok.TestCases.LoginTest","loginTest"
